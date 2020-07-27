@@ -8468,7 +8468,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .2;
+    opacity: .3;
     background: #000000; }
   @media (max-width: 991.98px) {
     .ftco-intro {
@@ -8651,6 +8651,7 @@ textarea.form-control {
 
 .department-wrap {
   width: 100%;
+  Height: 280px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
